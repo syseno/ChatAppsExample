@@ -9,6 +9,6 @@ Introduction
 
 Steps for trying out this sample:
 
-*Compile and install the mobile app onto your mobile device or emulator.
-*Before you open the apps, make sure that you've been connected to Internet.
+- Compile and install the mobile app onto your mobile device or emulator.
+- Before you open the apps, make sure that you've been connected to Internet.
 
