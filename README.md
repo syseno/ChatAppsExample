@@ -26,7 +26,6 @@ Some of the UI widgets and design patterns used in the mobile app include:
 Tools
 -----
 - Android Studio 2.2.3
-- Android Support Repository
 
 Library
 -------
